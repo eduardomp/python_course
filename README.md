@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-- [01 - Installation, Why Python. IDEs. Hello World (Syntax)](/01-Essentials/README.md)
-- [02 - Data types (primitive data types) variables](/02-Variables/README.md)
-- [03 - Strings](/03-Strings/README.md)
-- [04 - Aritmetic and Logic Operators](/04-Aritmetic-and-Logic-Operators/README.md)
+- [01 - Installation, Why Python. IDEs. Hello World (Syntax)](/01-Essentials)
+- [02 - Data types (primitive data types) variables](/02-Variables)
+- [03 - Strings](/03-Strings)
+- [04 - Aritmetic and Logic Operators](/04-Aritmetic-and-Logic-Operators)
 - [05 - Lists and Dictionaries](/05-Lists-and-Dictionaries)
 - [06 - If Else Statements](/06-If-Else-Statements)
 - [07 - Loops (for, while and List comprehensions)](/07-Loops)
