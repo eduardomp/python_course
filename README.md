@@ -15,6 +15,16 @@
 - [11 - REGEX - Regular Expressions](/11-Regex)
 - [12 - Error handling and Exceptions](/12-Error-handling-and-exceptions)
 
+## Prerequisites
+
+Python 3 (3.X, 3.7, 3.8, 3.9, 3.10)
+Basics libraries installed with the command bellow:
+
+```bash
+ pip3 install --upgrade pip3
+ pip3 install -r requirements.txt
+```
+
 ## Modules
 
 ### 01-Essentials
