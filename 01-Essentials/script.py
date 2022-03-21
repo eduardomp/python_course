@@ -12,19 +12,30 @@
 """
 
 # The code below prints "Hello World" in the terminal, execute it to see the result: python script.py
-print('Hello World')
+
+
+def print_hello_world():
+    print("Hello World")
+
 
 """
     CHALLENGE 1:
 
         Remove the comments and complete the script bellow to print a message "Hello " and your name.
-
+        (dont change the name of the function "print_hello_name"... we will cover functions later)
 """
 
+# def print_hello_name():
 # message = "Hello YOURNAMEHERE"
 # print(message)
 
 """Response block"""
 
-message = "Hello Jhon"
-print(message)
+
+def print_hello_name():
+    message = "Hello Jhon"
+    print(message)
+
+
+print_hello_world()
+print_hello_name()

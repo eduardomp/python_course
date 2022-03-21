@@ -99,3 +99,19 @@ But you can use any IDE that you want, indeed, to follow this course you only ne
 ## Hello World (Basic Syntax) and Challenge
 
 Open the script.py, read and follow the instructions.
+
+To check if you have done it correctly, run the script and see the output.
+
+```bash
+
+python3 script.py
+
+```
+
+To test your code and pass the challenge, run the script and see the output
+
+```bash
+
+    pytest test_script.py
+
+```
