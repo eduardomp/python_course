@@ -25,6 +25,43 @@ Basics libraries installed with the command bellow:
  pip3 install -r requirements.txt
 ```
 
+## General instructions
+
+Every module has a the following structure:
+
+```bash
+ 00-Module-Name          -> This is the name of the module
+    ├── README.md        -> This is the README file with the module theorical contents and instructions
+    ├── script.py        -> This is the main script file with the module code and challenges
+    └── test_script.py   -> This is the test script file with the challenges tests
+```
+
+To run the code, you can use the command bellow:
+
+```bash
+
+    #Access the module folder , IE: 01-Essentials
+    # cd <module folder>
+    cd 01-Essentials
+
+    #Run the code
+    python3 script.py
+
+```
+
+To test your code and pass the challenge, run the script and see the output:
+
+```bash
+
+    #Access the module folder, IE: 01-Essentials
+    # cd <module folder>
+    cd 01-Essentials
+
+    #Run the code test
+    pytest test_script.py
+
+```
+
 ## Modules
 
 ### 01-Essentials
