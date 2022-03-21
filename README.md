@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [01 - Installation, Why Python. IDEs. Hello World (Syntax)](/01-Essentials)
+- [01 - History, Why Python?, Installation, IDE's and a Hello World (Syntax)](/01-Essentials)
 - [02 - Data types (primitive data types) variables](/02-Variables)
 - [03 - Strings](/03-Strings)
 - [04 - Aritmetic and Logic Operators](/04-Aritmetic-and-Logic-Operators)
@@ -19,7 +19,7 @@
 
 ### 01-Essentials
 
-This module covers the essentials of programming in Python.
+This module covers the essentials of Python language, their history, motivations, tools (IDE's) and the basic syntax.
 
 You will learn how to install Python, how to use IDEs, and how to write your first Python program.
 
