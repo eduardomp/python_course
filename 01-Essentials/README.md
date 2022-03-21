@@ -27,9 +27,9 @@ Python is easy to share.
 
 Intersting links about Python:
 
-[Python - A programming language designed for human beings](https://www.python.org/)
-[Comparison beetween most used languages on Github 2021](https://madnight.github.io/githut/#/pull_requests/2021/4)
-[Awesome Phyton - A curated list of awesome Python frameworks, libraries, software and resources.](https://github.com/vinta/awesome-python)
+- [Python - A programming language designed for human beings](https://www.python.org/)
+- [Comparison beetween most used languages on Github 2021](https://madnight.github.io/githut/#/pull_requests/2021/4)
+- [Awesome Phyton - A curated list of awesome Python frameworks, libraries, software and resources.](https://github.com/vinta/awesome-python)
 
 ## Installation
 
@@ -91,8 +91,8 @@ IDE's (Integrated Development Environment) are programs that help you to write a
 
 The most common and recommended IDE's for python are:
 
-[Visual Studio Code](https://code.visualstudio.com/) Free and open source.
-[Pycharm](https://www.jetbrains.com/pycharm/download) Have a free community edition.
+- [Visual Studio Code](https://code.visualstudio.com/) Free and open source.
+- [Pycharm](https://www.jetbrains.com/pycharm/download) Have a free community edition.
 
 But you can use any IDE that you want, indeed, to follow this course you only need a text editor and a command line.
 
