@@ -108,10 +108,10 @@ python3 script.py
 
 ```
 
-To test your code and pass the challenge, run the script and see the output
+To test your code and pass the challenge, run the script and see the output.
 
 ```bash
 
-    pytest test_script.py
+pytest test_script.py
 
 ```
