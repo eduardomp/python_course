@@ -48,41 +48,4 @@ To run the code, you can use the command bellow:
 
 ```
 
-To test your code and pass the challenge, run the cells that calls the test script ins
-
-```bash
-
-
-```
-
-## Modules
-
-### 01-Essentials
-
-This module covers the essentials of Python language, their history, motivations, tools (IDE's) and the basic syntax.
-
-You will learn how to install Python, how to use IDEs, and how to write your first Python program.
-
-### 02-Variables
-
-### 03-Strings
-
-### 04-Aritmetic-and-Logic-Operators
-
-### 05-Lists-and-Dictionaries
-
-### 06-If-Else-Statements
-
-### 07-Loops
-
-### 08-Functions
-
-### 09-OOP
-
-### 10-IO
-
-### 11-Regex
-
-### 11-Regex
-
-### 12-Error-handling-and-exceptions
+To test your code and pass the challenge, run the cells that calls the test script inside the Jupyter notebook.
