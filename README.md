@@ -30,35 +30,28 @@ Basics libraries installed with the command bellow:
 Every module has a the following structure:
 
 ```bash
- 00-Module-Name          -> This is the name of the module
-    ├── README.md        -> This is the README file with the module theorical contents and instructions
-    ├── script.py        -> This is the main script file with the module code and challenges
-    └── test_script.py   -> This is the test script file with the challenges tests
+ 00-Module-Name               -> This is the name of the module
+    ├── __init__.py           -> This is usefull to declare a module in Python
+    ├── 00-Module-Name.ipynb  -> Here is the Jupyter notebook with the contents and challenges of the module
+    └── test_script.py        -> This is the test script file with the challenges tests
 ```
 
 To run the code, you can use the command bellow:
 
 ```bash
 
-    #Access the module folder , IE: 01-Essentials
-    # cd <module folder>
-    cd 01-Essentials
+    # run "jupyter notebook" command to navigate and choose the ipynb file in the browser
+    jupyter notebook
 
-    #Run the code
-    python3 script.py
+    #open the notebook file directly
+    jupyter notebook 00-module-name/00-module-name.ipynb
 
 ```
 
-To test your code and pass the challenge, run the script and see the output:
+To test your code and pass the challenge, run the cells that calls the test script ins
 
 ```bash
 
-    #Access the module folder, IE: 01-Essentials
-    # cd <module folder>
-    cd 01-Essentials
-
-    #Run the code test
-    pytest test_script.py
 
 ```
 
