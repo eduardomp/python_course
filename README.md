@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-- [01 - History, Why Python?, Installation, IDE's and a Hello World (Syntax)](/01-Essentials)
-- [02 - Data types (primitive data types) variables](/02-Variables)
-- [03 - Strings](/03-Strings)
-- [04 - Aritmetic and Logic Operators](/04-Aritmetic-and-Logic-Operators)
+- [01 - History, Why Python?, Installation, IDE's and a Hello World (Syntax)](/01-Essentials/01-Essentials.ipynb)
+- [02 - Data types (primitive data types) variables](/02-Variables/02-Variables.ipynb)
+- [03 - Strings](/03-Strings/03-Strings.ipynb)
+- [04 - Aritmetic and Logic Operators](/04-Arithmetic-and-Logic-Operators/04-Arithmetic-and-Logic-Operators.ipynb)
 - [05 - Lists and Dictionaries](/05-Lists-and-Dictionaries)
 - [06 - If Else Statements](/06-If-Else-Statements)
 - [07 - Loops (for, while and List comprehensions)](/07-Loops)
@@ -47,5 +47,8 @@ To run the code, you can use the command bellow:
     jupyter notebook 00-module-name/00-module-name.ipynb
 
 ```
+
+Note: If for some reason the page appears blank in your browser, just refresh the page untill the notebook is correctly displayed
+
 
 To test your code and pass the challenge, run the cells that calls the test script inside the Jupyter notebook.
